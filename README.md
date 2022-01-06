@@ -1,0 +1,1 @@
+# hub.docker.com-mozilla_mozilla-schema-generator
